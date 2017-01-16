@@ -28,7 +28,7 @@
 # python:
 #     - "2.7"
 #
-sudo: false
+sudo: true
 cache:
    directories:
        - "~/.platformio"
